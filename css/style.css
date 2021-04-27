@@ -1,0 +1,9 @@
+body {
+    background: #e9ecef;
+}
+
+h1 {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+}
